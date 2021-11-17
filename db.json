@@ -3,7 +3,7 @@
       {
         "id": 1,
         "title": "5 Javascript tips",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "19.07.2020",
         "tags": [
             "Js"
@@ -13,7 +13,7 @@
       {
         "id": 2,
         "title": "5 Html tips",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "10.07.2020",
         "tags": [
             "Html"
@@ -23,7 +23,7 @@
       {
         "id": 3,
         "title": "Top Css snippets",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "20.07.2020",
         "tags": [
             "Css"
@@ -33,7 +33,7 @@
       {
         "id": 4,
         "title": "Top Js snippets",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "29.07.2020",
         "tags": [
             "Js"
@@ -43,7 +43,7 @@
       {
         "id": 5,
         "title": "Build responsive landing page",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "30.07.2020",
         "tags": [
             "Html",
@@ -54,7 +54,7 @@
       {
         "id": 6,
         "title": "Todo app in Javascript",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "09.08.2020",
         "tags": [
             "Js",
@@ -66,7 +66,7 @@
       {
         "id": 7,
         "title": "Snake game in Vue",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "29.09.2020",
         "tags": [
             "Vue",
@@ -77,7 +77,7 @@
       {
         "id": 8,
         "title": "Top image tricks for your website",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "29.08.2020",
         "tags": [
             "Js",
@@ -89,7 +89,7 @@
       {
         "id": 9,
         "title": "Top Html snippets",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "29.09.2020",
         "tags": [
             "Html"
@@ -99,7 +99,7 @@
       {
         "id": 10,
         "title": "Top React snippets",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "29.07.2020",
         "tags": [
             "React"
@@ -109,7 +109,7 @@
       {
         "id": 11,
         "title": "Top Javascript projects",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "29.10.2020",
         "tags": [
             "Js"
@@ -119,7 +119,7 @@
       {
         "id": 12,
         "title": "Top React projects",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "29.10.2021",
         "tags": [
             "React"
@@ -129,7 +129,7 @@
       {
         "id": 13,
         "title": "Top Vue projects",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "29.11.2020",
         "tags": [
             "Vue"
@@ -139,7 +139,7 @@
       {
         "id": 14,
         "title": "Worst Js errors",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "30.11.2020",
         "tags": [
             "Js"
@@ -149,7 +149,7 @@
       {
         "id": 15,
         "title": "Vue or React",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "20.11.2020",
         "tags": [
             "Vue",
@@ -160,7 +160,7 @@
       {
         "id": 16,
         "title": "Scss or Less",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "10.11.2020",
         "tags": [
             "Scss",
@@ -171,7 +171,7 @@
       {
         "id": 17,
         "title": "5 things you need to know about Jsx",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "20.11.2020",
         "tags": [
             "Jsx",
@@ -182,7 +182,7 @@
       {
         "id": 18,
         "title": "Must have projects in your React developer portfolio",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "20.01.2020",
         "tags": [
             "React"
@@ -192,7 +192,7 @@
       {
         "id": 19,
         "title": "Best practices in Vue",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "25.11.2020",
         "tags": [
             "Vue"
@@ -202,7 +202,7 @@
       {
         "id": 20,
         "title": "Best practices in React",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "05.11.2020",
         "tags": [
             "React"
@@ -212,7 +212,7 @@
       {
         "id": 21,
         "title": "Best practices in Scss",
-        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus. Nec suspendisse non cras neque eget nibh est. Quis purus mauris mauris purus odio. Amet sollicitudin blandit ut mus turpis.",
+        "paragraph": "Morbi est amet odio vulputate quis egestas urna, phasellus rhoncus.",
         "date": "06.11.2020",
         "tags": [
             "Scss"
