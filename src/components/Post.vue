@@ -4,12 +4,13 @@
       <img src="" alt="">
     </div>
     <div>
+      <small>{{ post.date }}</small>
       <h3>{{ post.title }}</h3>
       <p>{{ post.paragraph }}</p>
       <a href='#'>Read more</a>
     </div>
     <PostAuthor v-bind:author="post.author"/>
-    <PostDeleteButton/>
+    <PostDeleteButton v-on:click="deletePost(post.id)"/>
   </div>
 </template>
 
@@ -24,6 +25,11 @@ export default {
     PostAuthor,
     PostDeleteButton
   },
+  methods: {
+    deletePost(id) {
+      this.$emit('deletePost', id);
+    }
+  }
 }
 </script>
 
