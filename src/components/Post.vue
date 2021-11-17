@@ -21,7 +21,8 @@ export default {
   name: 'Post',
   props: ['post'],
   components: {
-    PostAuthor
+    PostAuthor,
+    PostDeleteButton
   },
 }
 </script>
