@@ -7,23 +7,26 @@
       <small>{{ post.date }}</small>
       <h3>{{ post.title }}</h3>
       <p>{{ post.paragraph }}</p>
-      <a href='#'>Read more</a>
+      <Button v-on:click="deletePost(post.id)"/>
+      <Button 
+        v-bind:type="'link'"
+        v-bind:postId="post.id"
+      />
     </div>
     <PostAuthor v-bind:author="post.author"/>
-    <PostDeleteButton v-on:click="deletePost(post.id)"/>
   </div>
 </template>
 
 <script>
 import PostAuthor from './PostAuthor.vue'
-import PostDeleteButton from './PostDeleteButton.vue'
+import Button from './Button.vue'
 
 export default {
   name: 'Post',
   props: ['post'],
   components: {
     PostAuthor,
-    PostDeleteButton
+    Button
   },
   methods: {
     deletePost(id) {
