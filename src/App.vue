@@ -1,15 +1,29 @@
 <template>
-  <img alt="blogdog logo" src="./assets/logo.svg">
+  <Nav/>
   <PostsList/>
 </template>
 
 <script>
 import PostsList from './components/PostsList.vue'
+import Nav from './components/Nav.vue'
+// import VueRouter from 'vue-router'
+// import PostPage from './PostPage.vue'
+// const router = new VueRouter({
+//   routes: [
+//     { path: '/blogpost/:id', component: PostPage }
+//   ]
+// })
+
+
+// const app = new Vue({
+//   router
+// }).$mount('#app')
 
 export default {
   name: 'App',
   components: {
-    PostsList
+    PostsList,
+    Nav
   }
 }
 </script>
