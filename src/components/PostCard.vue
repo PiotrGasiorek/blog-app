@@ -22,7 +22,7 @@ import PostAuthor from './PostAuthor.vue'
 import Button from './Button.vue'
 
 export default {
-  name: 'Post',
+  name: 'PostCard',
   props: ['post'],
   components: {
     PostAuthor,

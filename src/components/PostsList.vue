@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Post 
+    <PostCard 
       v-for="post in this.$store.getters.getPosts" 
       v-bind:key="post.id" 
       v-bind:post="post"
@@ -9,12 +9,12 @@
 </template>
 
 <script>
-import Post from './Post.vue'
+import PostCard from './PostCard.vue'
 
 export default {
   name: 'BlogPosts',
   components: {
-    Post
+    PostCard
   },
   methods: {
 

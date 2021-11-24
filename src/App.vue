@@ -1,11 +1,11 @@
 <template>
-  <Nav/>
-  <PostsList/>
+  <Home/>
+  <!-- <PostsList/> -->
 </template>
 
 <script>
-import PostsList from './components/PostsList.vue'
-import Nav from './components/Nav.vue'
+import Home from '../src/views/Home.vue';
+// import Post from '../src/views/Post.vue';
 // import VueRouter from 'vue-router'
 // import PostPage from './PostPage.vue'
 // const router = new VueRouter({
@@ -17,8 +17,8 @@ import Nav from './components/Nav.vue'
 export default {
   name: 'App',
   components: {
-    PostsList,
-    Nav
+    Home,
+    // Post
   }
 }
 </script>
