@@ -7,7 +7,7 @@
       <small>{{ post.date }}</small>
       <h3>{{ post.title }}</h3>
       <p>{{ post.paragraph }}</p>
-      <Button v-on:click="deletePost(post.id)"/>
+      <Button v-on:click="deletePost(post)"/>
       <Button 
         v-bind:type="'link'"
         v-bind:postId="post.id"
@@ -29,8 +29,8 @@ export default {
     Button
   },
   methods: {
-    deletePost(id) {
-      this.$emit('deletePost', id);
+    deletePost(post) {
+      this.$store.dispatch('deletePost', post);
     }
   }
 }

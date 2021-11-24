@@ -14,11 +14,6 @@ import Nav from './components/Nav.vue'
 //   ]
 // })
 
-
-// const app = new Vue({
-//   router
-// }).$mount('#app')
-
 export default {
   name: 'App',
   components: {
