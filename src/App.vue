@@ -1,25 +1,10 @@
 <template>
-  <Home/>
-  <!-- <PostsList/> -->
+  <router-view />
 </template>
 
 <script>
-import Home from '../src/views/Home.vue';
-// import Post from '../src/views/Post.vue';
-// import VueRouter from 'vue-router'
-// import PostPage from './PostPage.vue'
-// const router = new VueRouter({
-//   routes: [
-//     { path: '/blogpost/:id', component: PostPage }
-//   ]
-// })
-
 export default {
   name: 'App',
-  components: {
-    Home,
-    // Post
-  }
 }
 </script>
 
