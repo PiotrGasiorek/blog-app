@@ -1,17 +1,18 @@
 <template>
   <button v-if="type === 'button'">Remove post</button>
-  <a 
+  <router-link 
     v-else 
-    :href="'blogpost/' + postId"
-  >Read more</a>
+    :to="{ 
+      name: 'Post', 
+      params: { id: postId }
+    }"
+  >Read more</router-link>
 </template>
 
 <script>
 export default {
   name: 'PostDeleteButton',
   props: {
-    text: String,
-    href: String,
     postId: Number,
     type: {
       default: "button",
