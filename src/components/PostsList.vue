@@ -16,11 +16,8 @@ export default {
   components: {
     PostCard
   },
-  methods: {
-
-  },
   mounted() {
-    this.$store.dispatch('setPosts');
+    this.$store.dispatch('getBlog');
   }
 }
 </script>
